@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @averyyuwu
 - 👀 I’m interested in ... web dev and cpp
 - 🌱 I’m currently learning ... js and react
-- 📫 How to reach me ... dont
 - ⚡ Fun fact: ... penguins eat rocks
+- 📫 How to reach me ... idk ≽(•⩊ •マ≼
