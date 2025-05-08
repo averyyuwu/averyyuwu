@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @averyyuwu
-- 👀 I’m interested in ... web dev and cpp
+- 👀 I’m interested in ... web dev, c++
 - 🌱 I’m currently learning ... js and react
 - ⚡ Fun fact: ... penguins eat rocks
-- 📫 How to reach me ... idk ≽(•⩊ •マ≼
